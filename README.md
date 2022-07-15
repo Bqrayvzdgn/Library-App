@@ -13,6 +13,6 @@ Kaydetip veri tabanına kaydetme ; <br>
 Veri tabanı görseli ; <br>
 ![Screenshot_5](https://user-images.githubusercontent.com/78935299/179273035-05f22a5b-1e5f-4c96-a218-ebd87df560ba.png)
 ---
-Güncelleme seçeneği ; <br>
+Kitap bilgilerini güncelleme ; <br>
 ![Screenshot_6](https://user-images.githubusercontent.com/78935299/179273043-429646c8-e254-466c-b055-5c0cdb35cf60.png)
 ---
