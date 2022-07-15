@@ -46,10 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Database\DbKitaplıkDataSet.cs">
+    <Compile Include="DbKitaplıkDataSet.cs">
       <DependentUpon>DbKitaplıkDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Database\DbKitaplıkDataSet.Designer.cs">
+    <Compile Include="DbKitaplıkDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DbKitaplıkDataSet.xsd</DependentUpon>
@@ -74,15 +74,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="Database\DbKitaplıkDataSet.xsc">
+    <None Include="DbKitaplıkDataSet.xsc">
       <DependentUpon>DbKitaplıkDataSet.xsd</DependentUpon>
     </None>
-    <None Include="Database\DbKitaplıkDataSet.xsd">
+    <None Include="DbKitaplıkDataSet.xsd">
       <Generator>MSDataSetGenerator</Generator>
       <LastGenOutput>DbKitaplıkDataSet.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="Database\DbKitaplıkDataSet.xss">
+    <None Include="DbKitaplıkDataSet.xss">
       <DependentUpon>DbKitaplıkDataSet.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
