@@ -1,0 +1,10 @@
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\bin\Debug\Kitaplık.exe.config
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\bin\Debug\Kitaplık.exe
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\bin\Debug\Kitaplık.pdb
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\obj\Debug\Kitaplık.Properties.Resources.resources
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\obj\Debug\Kitaplık Projesi.csproj.GenerateResource.cache
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\obj\Debug\Kitaplık Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\obj\Debug\Kitaplık.exe
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\obj\Debug\Kitaplık.pdb
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\obj\Debug\Kitaplık Projesi.csproj.AssemblyReference.cache
+C:\Users\Buğrahan\source\repos\Kitaplık\Kitaplık\obj\Debug\Kitaplık.Main.resources
